@@ -1,7 +1,5 @@
 # bidding_ai
 
-# bidding_ai
-
 Bridge bidding assistant (2/1, strong 1NT 15–17) focused on IMP EV recommendations.
 
 ## v0.1 Scope
